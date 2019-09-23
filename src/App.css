@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.description {
+    background-color: lightblue;
+    margin: 1rem auto;
+}
+
+.navbar {
+    background-color: lightgreen;
+    margin: 1rem auto;
+}
